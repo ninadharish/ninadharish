@@ -1,6 +1,6 @@
 ![alt text](/graphics/header.png)
 
-<h1>Hi👋! I'm Ninad</h2>💻
+<h1>Hi👋! I'm Ninad</h2>
 
 <h2>About me :man::</h2>
 
@@ -9,7 +9,7 @@ I am a graduate student at the University of Maryland, College Park and am pursu
 Apart from tech, I love reading fiction and self-help books, watching movies as well as travelling and exploring.
 
 
-<h2>Languages and Tools Used:</h2>
+<h2>Languages and Tools Used 💻:</h2>
 
 <p align="left">
 <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="40" height="40"/> &ensp;</a>
