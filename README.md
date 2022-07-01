@@ -4,7 +4,9 @@
 
 <h2>About me :man::</h2>
 
-I am a graduate student at the University of Maryland, College Park and am pursuing a Masters of Engineering Degree in Robotics. I have learnt and been involved in various projects in Perception, Planning, Machine Learning as well as Controls during the course of this degree. I am passionate about applications of Vision, Deep Learning and am learning and upskilling myself for these fields. As someone with a background and professional experience in a core field like Mechanical Engineering, this shift to modern engineering fields has been both challenging as well as rewarding. With each passing day, I learn new things and progress further.
+I am a graduate student at the University of Maryland, College Park and am pursuing a Masters of Engineering Degree in Robotics. I have learnt and been involved in various projects in Perception, Planning, Machine Learning as well as Controls during the course of this degree. I am passionate about applications of Vision, Deep Learning and am learning and upskilling myself for these fields. 
+
+As someone with a background and professional experience in a core field like Mechanical Engineering, this shift to modern engineering fields has been both challenging as well as rewarding. With each passing day, I learn new things and progress further.
 
 Apart from tech, I love reading fiction and self-help books, watching movies as well as travelling and exploring.
 
