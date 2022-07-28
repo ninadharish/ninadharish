@@ -22,6 +22,7 @@ Apart from tech, I love reading fiction and self-help books, watching movies as 
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="70" height="40"/> &ensp;</a>
 <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Gazebo_logo_without_text.svg/300px-Gazebo_logo_without_text.svg.png?20150715002113" alt="Gazebo" width="60" height="50"/>&ensp; </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> &ensp;</a>
+<a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/928/416/png-transparent-solidworks-simulation-logo-computer-aided-design-solidworks-corp-technology-electronics-text-logo-thumbnail.png" alt="solidworks" width="40" height="40"/> &ensp;</a>
 </p>
 
 
