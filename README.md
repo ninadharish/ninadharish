@@ -1,4 +1,4 @@
-![alt text](/graphics/header.png)
+![alt text](header.png)
 
 <h1>Hi👋! I'm Ninad</h2>
 
